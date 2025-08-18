@@ -47,3 +47,11 @@ The widget fetches data from Taboola Recommended API
 ## License
 
 This project is for educational
+
+<div align="center">
+<h2><u>Find-me / Encontre-me :</u></h2>  
+
+  [![Gmail Badge](https://img.shields.io/badge/-patriciauemura53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:patriciauemura53@gmail.com)](mailto:patriciauemura53@gmail.com) 
+  [![Linkedin Badge](https://img.shields.io/badge/in_Patricia_Uemura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patriciauemura53/)](https://www.linkedin.com/in/patriciauemura53/) 
+  <a href="https://web.dio.me/users/patriciadev53?tab=achievements" target="_blank"><img src="https://hermes.digitalinnovation.one/assets/diome/logo.svg" target="_blank" width="50px"></a>  
+</div>

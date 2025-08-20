@@ -1,4 +1,4 @@
-# Taboola Widget Challenge
+# Taboola Widget Challenge [![Netlify](https://img.shields.io/netlify/aa16f20a-c09d-4144-8c96-3695c18e19ab?style=plastic&label=Project%20Preview)](https://taboola-widget-challenge.netlify.app/)
 
 ## Overview
 
